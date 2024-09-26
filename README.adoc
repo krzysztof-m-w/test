@@ -1,0 +1,19 @@
+= Example Project
+John Doe <john.doe@example.com>
+v1.0.0, 2024-09-26
+
+== Description
+
+Example Project is a simple application that demonstrates how to use AsciiDoc for documentation. It provides a clear structure for organizing information about the project.
+
+== Features
+
+* Easy to read and write
+* Supports multiple output formats (HTML, PDF, etc.)
+* Lightweight and efficient
+
+== Installation
+
+To install Example Project, follow these steps:
+
+1. Clone the repository:
