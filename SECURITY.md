@@ -1,1 +1,2 @@
-contact example@email.com
+# Section
+contact [mail](example@email.com)
