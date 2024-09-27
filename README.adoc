@@ -17,3 +17,6 @@ Example Project is a simple application that demonstrates how to use AsciiDoc fo
 To install Example Project, follow these steps:
 
 1. Clone the repository:
+
+== Reporting
+If you discover any vlunerablity please report it using github advisories.
