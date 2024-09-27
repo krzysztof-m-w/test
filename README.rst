@@ -53,3 +53,8 @@ For any inquiries, please contact:
 Email: your.email@example.com  
 GitHub: https://github.com/yourusername
 
+Security Policy
+===============
+We take security very seriously.
+If you discover any issues please DM one of the maintainers. 
+
